@@ -1,6 +1,8 @@
 import pygame
 import sys
 
+
+# USE W/A/S/D OR <LEFT>/<RIGHT>/<UP>/<DOWN> ARROW FOR MOVEMENT
 pygame.init()
 
 layar = pygame.display.set_mode((500, 500))
