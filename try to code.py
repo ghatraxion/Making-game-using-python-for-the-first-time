@@ -6,7 +6,7 @@ import sys
 pygame.init()
 
 layar = pygame.display.set_mode((500, 500))
-pygame.display.set_caption("Rotated rectangle!")
+pygame.display.set_caption("Simple Movement and Rotation")
 
 # warna
 putih = (255, 255, 255)
